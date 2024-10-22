@@ -189,4 +189,5 @@ sections:
       text:
         textAlign: left
 metaTitle: 'Asbest Pol '
+metaDescription: Asbest pol
 ---
